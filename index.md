@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Perahu Kertas](ebook/perahukertas.pdf) - Dewi Lestari (2009)
 3. [Mencari Indonesia](ebook/mencariindonesia.pdf) - Riwanto Tirtosudarmo (2022)
 4. [Bumi Manusia](ebook/BumiManusia.pdf) - Pramoedya Ananta Toer (2002)
-5. [Laut Bercerita](ebook/LautBercerita).pdf) - Leila S. Chudori (2017)
+5. [Laut Bercerita](ebook/lautbercerita.pdf) - Leila S. Chudori (2017)
 6. [Madilog](ebook/MADILOG.pdf) - Tan Malaka (1943)
 7. [Toko Kelontong Namiya](ebook/TokoKelontongNamiya.pdf) - Keigo Higashino (2020)
 8. [Dilan: Dia adalah Dilanku tahun 1990](ebook/DILAN.pdf) - Pidi Baiq (2014)
