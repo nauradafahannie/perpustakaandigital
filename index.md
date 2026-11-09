@@ -1,4 +1,8 @@
 # Digital Library
+Nama : Naura Dafahannie
+
+NIM  : 13040124140129
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
