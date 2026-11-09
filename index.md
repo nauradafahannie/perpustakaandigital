@@ -16,7 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Dilan: Dia adalah Dilanku tahun 1990](ebook/DILAN.pdf) - Pidi Baiq (2014)
 9. [Buku Ajar Pengantar Ilmu Komunikasi](ebook/Buku_ajar_pengantar_ilmu_komunikasi.pdf) - Didik Hariyanto (2021)
 10. [Speak So They Stay](ebook/Speak_So_They_Stay.pdf) - GetFreeEbooks (2026)
-11. [Cantik Itu Luka](ebook/The_Shop_Window) - Eka Kurniawan (2015)
+11. [Cantik Itu Luka](ebook/cantikituluka.pdf) - Eka Kurniawan (2015)
 12. [Tugas 2: Ringkasan UGC PATI](ebook/tugas2_ringkasanugcpati_NauraDafahannie_129.pdf) - Naura Dafahannie (13040124140129) (2026)
     
 ---
