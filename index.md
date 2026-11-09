@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Laut Bercerita](ebook/Laut Bercerita (Leila S. Chudori).pdf) - Leila S. Chudori (2017)
 6. [Madilog](ebook/MADILOG.pdf) - Tan Malaka (1943)
 7. [Toko Kelontong Namiya](ebook/Toko Kelontong Namiya Indonesian Edition-Keigo Higashino.pdf) - Keigo Higashino (2020)
-8. [Dilan: Dia adalah Dilanku tahun 1990](ebook/DILAN 1.pdf) - Pidi Baiq (2014)
+8. [Dilan](ebook/DILAN 1.pdf) - Pidi Baiq (2014)
 9. [Buku Ajar Pengantar Ilmu Komunikasi](ebook/Buku_ajar_pengantar_ilmu_komunikasi.pdf) - Didik Hariyanto (2021)
 10. [Speak So They Stay](ebook/Speak_So_They_Stay.pdf) - GetFreeEbooks (2026)
 11. [The Shop Window](ebook/The_Shop_Window) - GetFreeEbooks (2026)
