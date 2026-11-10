@@ -22,4 +22,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 12. [Tugas 2: Ringkasan UGC PATI](ebook/tugas2_ringkasanugcpati_NauraDafahannie_129.pdf) - Naura Dafahannie (13040124140129) (2026)
     
 ---
-Naura Dafahannie (13040124140129) *Powered by GitHub Pages*
+*Powered by GitHub Pages*
