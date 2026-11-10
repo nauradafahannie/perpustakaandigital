@@ -1,7 +1,9 @@
 # Digital Library
-Nama : Naura Dafahannie
+Nama  : Naura Dafahannie
 
-NIM  : 13040124140129
+NIM   : 13040124140129
+
+Kelas : C
 
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
@@ -15,9 +17,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Toko Kelontong Namiya](ebook/TokoKelontongNamiya.pdf) - Keigo Higashino (2020)
 8. [Dilan: Dia adalah Dilanku tahun 1990](ebook/DILAN.pdf) - Pidi Baiq (2014)
 9. [Buku Ajar Pengantar Ilmu Komunikasi](ebook/Buku_ajar_pengantar_ilmu_komunikasi.pdf) - Didik Hariyanto (2021)
-10. [Speak So They Stay](ebook/Speak_So_They_Stay.pdf) - GetFreeEbooks (2026)
+10. [Hujan](ebook/hujan.pdf) - Tere Liye (2016)
 11. [Cantik Itu Luka](ebook/cantikituluka.pdf) - Eka Kurniawan (2015)
 12. [Tugas 2: Ringkasan UGC PATI](ebook/tugas2_ringkasanugcpati_NauraDafahannie_129.pdf) - Naura Dafahannie (13040124140129) (2026)
     
 ---
-*Powered by GitHub Pages*
+Naura Dafahannie (13040124140129) *Powered by GitHub Pages*
